@@ -1,15 +1,15 @@
 M48
-;DRILL file {Pcbnew (2013-mar-13)-testing} date vie 02 ago 2013 12:29:27 CEST
-;FORMAT={-:-/ absolute / metric / decimal}
+;DRILL file {kicad (2014-jul-16 BZR unknown)-product} date lun 15 sep 2014 11:31:11 CEST
+;FORMAT={-:-/ absolute / inch / decimal}
 FMAT,2
-METRIC,TZ
-T1C0.899
+INCH,TZ
+T1C0.035
 %
 G90
 G05
-M71
+M72
 T1
-X97.813Y-155.359
-X102.212Y-155.359
+X3.8509Y-6.1165
+X4.0241Y-6.1165
 T0
 M30

@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name PI)(type KiCad)(uri /home/syvic/Electronica/PlacaInterruptores/placa-interruptores.mod)(options "")(descr "Placa interruptores"))
+  (lib (name PI2)(type Legacy)(uri /home/syvic/Electronica/PlacaInterruptores/placa-interruptores.mod)(options "")(descr "Placa interruptores"))
+  (lib (name LOGOSD)(type Legacy)(uri /home/syvic/Electronica/PlacaInterruptores/logo-sd.mod)(options "")(descr "Logo Sindormir.net"))
+  (lib (name LOGOOH)(type Legacy)(uri /home/syvic/Electronica/PlacaInterruptores/OPENHARDWARE.mod)(options "")(descr "Logo Open Hardware"))
+)
